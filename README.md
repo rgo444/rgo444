@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rodrigo García
-- 👀 I’m interested in starting my career as a data analyst
+- 👋 Hi, I’m rgo444
+- 👀 I’m a junior data analys and AI trainer.
 - 🌱 In my repositories you may find some projects I've prepared to showcase my abilities with Python, SQL and R!
 
 <!---
